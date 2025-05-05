@@ -15,7 +15,7 @@ Está é uma plataforma que identifica atrasos, desvios orçamentários e riscos
 ## Como Executar
 
 1. **Baixe o projeto**:
-2. **Execute o script de configuaração no CMD**:
+2. **Executar o script de configuaração no CMD**:
      ```bash
      setup.bat
     ```
@@ -26,7 +26,7 @@ Está é uma plataforma que identifica atrasos, desvios orçamentários e riscos
      .\venv\Scripts\activate
     ```
 
-4. **Execute a extração dos dados**
+4. **Executar a extração dos dados**
     ```bash
      python3 extract.py
     ```
