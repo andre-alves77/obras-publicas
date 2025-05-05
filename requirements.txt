@@ -1,0 +1,2 @@
+playwright>=1.47.0
+neo4j>=5.12.0
